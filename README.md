@@ -6,7 +6,11 @@ EDIT: There are additional profiles for Kobra 3 v2 for SlicerNext - please choos
 These files are not finally tested, but same as v1. Why? We don't have the printer, but many people in the forum asked: https://forum.drucktipps3d.de/forum
 
 unzip the .ZIP
+
 import the file in SlicerNext
+
 choose your printer
+
 choose filament and process profile
+
 have fun :-)
